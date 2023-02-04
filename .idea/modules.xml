@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hotelsgo.iml" filepath="$PROJECT_DIR$/.idea/hotelsgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../new_module/library_app/.idea/library_app.iml" filepath="$PROJECT_DIR$/../new_module/library_app/.idea/library_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../odoo-code/odoo-15.0/.idea/odoo-15.0.iml" filepath="$PROJECT_DIR$/../../odoo-code/odoo-15.0/.idea/odoo-15.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../odoo/courses/hazem/api/project_api-main/.idea/project_api-main.iml" filepath="$PROJECT_DIR$/../../odoo/courses/hazem/api/project_api-main/.idea/project_api-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../odoo-code/appstore/odoo_accounting/reporting/.idea/reporting.iml" filepath="$PROJECT_DIR$/../../odoo-code/appstore/odoo_accounting/reporting/.idea/reporting.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<odoo>
+  <data>
+    <!-- inherit company form view definition -->
+    <!-- Inherit Form View to Modify it -->
+    <record id="adding_hotelsgo_info" model="ir.ui.view">
+        <field name="name">adding hotelsgo info</field>
+        <field name="model">res.company</field>
+        <field name="inherit_id" ref="base.view_company_form"/>
+        <field name="arch" type="xml">
+
+            <xpath expr="//field[@name='mobile']" position="after">
+                <!-- Add your fields or attributes here -->
+              <field name="sales_percentage"/>
+              <field name="payment_gateway_percentage"/>
+            </xpath>
+
+        </field>
+    </record>
+
+
+
+
+
+  </data>
+</odoo>
